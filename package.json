@@ -28,5 +28,6 @@
     "rollup": "^1.2.2",
     "rollup-plugin-babel": "^4.3.2"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "scripts": { "test": "grunt test" }
 }
